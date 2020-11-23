@@ -295,3 +295,8 @@ h1:hover, h2:hover, h3:hover {
    color: white;
 }
 
+.stats2 {
+   border-radius: 7.5px;
+   margin: 20px;
+   width: 25%;
+}
